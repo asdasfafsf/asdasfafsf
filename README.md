@@ -2,7 +2,7 @@
 안녕하세용
 
 ## Skill
-
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Javascript&logoColor=white"/>
 
 ## ?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdasfafsf&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
